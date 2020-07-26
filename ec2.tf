@@ -7,3 +7,4 @@ resource "aws_instance" "aws" {
     Name = "ec2_ubuntu"
   }
 }
+# working on it
